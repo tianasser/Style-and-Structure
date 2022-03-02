@@ -1,0 +1,71 @@
+h1{color: rgb(71, 34, 67);}
+p{color: rgb(0, 0, 0);
+background:rgba(201, 201, 201, 0);
+font-weight: normal;
+text-transform: none; /* uppercase, lowercase, calitalize */
+font-style: normal;
+line-height: 20px;}
+
+body{background: rgb(164, 164, 164)}
+
+#citation{color:rgb(245, 245, 220)}
+.new-class{
+
+    font-size:20px;
+   
+}
+
+.square{
+    height: 540px;
+    width: 540px;
+    position: absolute;
+    background-color: rgb(148, 177, 227);
+    top: 60px;
+    left: 181px;
+    z-index: -10;
+}
+
+
+
+#container{
+background:rgb(0, 45, 128);
+border-style:dashed;
+border-color: rgb(95, 105, 138);
+border-width: 10px;
+
+}
+
+#cirlce { 
+    height: 200px;
+    width: 300px;
+    
+}
+
+#image{
+    height: 405px;
+    width: 492px;
+    top: 127px;
+    left: 205px;
+    position: absolute;
+    z-index: 1;
+}
+
+#alltext{
+position: absolute;
+top: 600px;
+
+}
+
+.box-1{
+
+    height: 475px;
+    width: 653px;
+    position: absolute;
+    background-color: rgb(177, 192, 204);
+    top: 763px;
+    left: 78px;
+    z-index: -10;
+    border-radius: 10%;
+
+
+}
